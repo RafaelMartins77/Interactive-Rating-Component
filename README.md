@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Tela1](images/screenshot1.png)
-![Tela2](images/screenshot2.png)
+![Tela1](images/ScreenShot1.png)
+![Tela2](images/ScreenShot2.png)
 
 ### Links
 
