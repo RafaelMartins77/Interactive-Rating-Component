@@ -126,13 +126,13 @@ p {
 }
 
 .button button:hover {
-  background-color: var(--MediumGrey);
+  background-color: var(--Orange);
   color: var(--White);
   cursor: pointer;
 }
 
 .button button:active {
-  background-color: var(--Orange);
+  background-color: var(--MediumGrey);
   color: var(--White);
 }
 
